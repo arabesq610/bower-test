@@ -1,0 +1,19 @@
+{
+  "name": "bower-test",
+  "authors": [
+    "Elizabeth Linn <elise_81@yahoo.com>"
+  ],
+  "description": "",
+  "main": "module.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
