@@ -1,8 +1,12 @@
 {
   "name": "bower-test",
+  "version": "0.0.1",
   "authors": [
     "Elizabeth Linn <elise_81@yahoo.com>"
   ],
+  "dependencies": {
+    "angular": "~1.4.5"
+  },
   "description": "",
   "main": "module.js",
   "moduleType": [],
